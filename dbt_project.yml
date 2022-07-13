@@ -40,4 +40,5 @@ models:
     staging :
       +schema : STAGES 
       +materialized : table 
+      +transient: false
       
