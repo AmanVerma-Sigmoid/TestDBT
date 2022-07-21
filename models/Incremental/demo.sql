@@ -1,8 +1,4 @@
--- {{
---     config(
---         materialized='incremental'
---     )
--- }}
+
 
 -- select * from raw_app_data.events
 
